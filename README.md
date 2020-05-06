@@ -8,3 +8,4 @@ Leetcode problems
 - [Ransom Note](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/ransom_note.rb)
 - [Number Complement](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/number_complement.rb)
 - [First Uniq Character](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/first_uniq_character.rb)
+- [Majority Element](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/majority_element.rb)
