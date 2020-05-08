@@ -10,3 +10,4 @@ Leetcode problems
 - [First Uniq Character](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/first_uniq_character.rb)
 - [Majority Element](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/majority_element.rb)
 - [Cousins In Binary Tree](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/cousins_in_binary_tree.rb)
+- [Straight Line](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/straight_line.rb)
