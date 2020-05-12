@@ -12,3 +12,4 @@ Leetcode problems
 - [Cousins In Binary Tree](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/cousins_in_binary_tree.rb)
 - [Straight Line](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/straight_line.rb)
 - [Valid Perfect Square](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/valid_perfect_square.rb)
+- [Find the Town Judge](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/town_judge.rb)
