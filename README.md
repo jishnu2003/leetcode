@@ -16,3 +16,4 @@ Leetcode problems
 - [Flood Fill](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/flood_fill.rb)
 - [Find Single Element in Array](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/single_element.rb)
 - [Remove K Digits](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/remove_k_digits.rb)
+- [Sort Characters By Frequency](https://github.com/jishnu2003/leetcode/blob/master/may-leet-code-challenge/sort_char_by_frequency.rb)
